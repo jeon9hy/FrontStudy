@@ -1,2 +1,2 @@
 # FrontStudy
-Recording Java Study 24.12.23~
+Recording Front Study 24.12.23~
